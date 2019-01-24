@@ -1,1 +1,2 @@
-Change it to the text
+var x,y;
+x=50;
