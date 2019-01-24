@@ -1,1 +1,4 @@
-fdhdfghdfghdfh
+<script>
+var studentName = "Abdul"
+Console.log(studentName)
+</script>
