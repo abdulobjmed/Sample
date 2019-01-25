@@ -1,1 +1,4 @@
-ahsdjashdAbdul Hameed
+var x=0;
+var y=50;
+Console.log(x)
+console.log(y)
